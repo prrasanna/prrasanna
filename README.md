@@ -41,11 +41,6 @@
 
 ---
 
-##📜 Certifications
-[![Foundation Certificate](https://img.shields.io/badge/Foundation-Certificate-green?style=for-the-badge&logo=google-scholar)](./Foundation_Certificate.pdf)
-
----
-
 ## 📄 Resume
 [![Resume](https://img.shields.io/badge/Resume-Download-blue?style=for-the-badge&logo=readthedocs)](./Bala_Prasanth_Resume.pdf)
 
