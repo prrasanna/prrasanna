@@ -4,11 +4,11 @@
 ---
 
 ## 🧠 About Me
-🚀 Aspiring Full Stack Developer focused on building scalable and high-performance web applications
-💻 Skilled in Backend Development using Node.js and Express.js, with experience in building RESTful APIs and handling server-side logic
-⚛️ Proficient in Frontend Technologies including React, HTML, CSS, and JavaScript for developing responsive and user-friendly interfaces
-🗄️ Experience working with MongoDB for efficient data storage and management
-📊 Actively practicing Data Structures & Algorithms (DSA) to improve problem-solving abilities
+🚀 Aspiring Full Stack Developer focused on building scalable and high-performance web applications </br>
+💻 Skilled in Backend Development using Node.js and Express.js, with experience in building RESTful APIs and handling server-side logic </br>
+⚛️ Proficient in Frontend Technologies including React, HTML, CSS, and JavaScript for developing responsive and user-friendly interfaces </br>
+🗄️ Experience working with MongoDB for efficient data storage and management </br>
+📊 Actively practicing Data Structures & Algorithms (DSA) to improve problem-solving abilities </br>
 🎯 Career Goal: To become a Full Stack Developer in a Product-Based Company, delivering efficient and impactful software solutions
 
 ---
@@ -34,10 +34,10 @@
 ---
 
 ## 🏅 Achievements
-🏆 Awarded Special Prize at TN-Impact2026, recognizing innovation and project excellence
-💻 Successfully developed and delivered multiple Java and Full Stack applications
-🚀 Gained hands-on experience by building real-world, practical applications
-💡 Participated in Zoho Hackathon and HackIndia, enhancing skills in problem-solving, collaboration, and rapid product development in competitive environments
+🏆 Awarded Special Prize at TN-Impact2026, recognizing innovation and project excellence </br>
+💻 Successfully developed and delivered multiple Java and Full Stack applications </br>
+🚀 Gained hands-on experience by building real-world, practical applications </br>
+💡 Participated in Zoho Hackathon and HackIndia, enhancing skills in problem-solving, collaboration, and rapid product development in competitive environments </br>
 
 ---
 
