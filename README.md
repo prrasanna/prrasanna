@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Bala Prasanna M</h1>
+<h1 align="center">Hi 👋, I'm Bala Prasanna Mohan</h1>
 <h3 align="center"> Full Stack Web Developer | UI/UX Designer </h3>
 
 ---
@@ -14,13 +14,14 @@
 ---
 
 ## 🏆 Tech Stack
-![Java](https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=java)
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)
-![React](https://img.shields.io/badge/React-blue?style=for-the-badge&logo=react)
-![Node.js](https://img.shields.io/badge/Node.js-green?style=for-the-badge&logo=node.js)
-![HTML](https://img.shields.io/badge/HTML-orange?style=for-the-badge&logo=html5)
-![CSS](https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=css3)
-![MongoDB](https://img.shields.io/badge/MongoDB-darkgreen?style=for-the-badge&logo=mongodb)
+
+![Java](https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-blue?style=for-the-badge&logo=react&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-green?style=for-the-badge&logo=node.js&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-orange?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=css3&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-darkgreen?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ---
 
@@ -42,10 +43,10 @@
 ---
 
 ## 📄 Resume
-[![Resume](https://img.shields.io/badge/Resume-Download-blue?style=for-the-badge&logo=readthedocs)](./Bala_Prasanth_Resume.pdf)
+[![Resume](https://img.shields.io/badge/Resume-Download-blue?style=for-the-badge&logo=readthedocs)](./Bala_Prasanna_M_Resume.pdf)
 
 ---
 
 ## 📬 Contact Me
 - 📧 balaprasanth1441996@gmail.com
-- 💼 LinkedIn:(https://www.linkedin.com/in/bala-prasanna-m-4587a728b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+- 💼 LinkedIn:(www.linkedin.com/in/bala-prasanna-m-4587a728b)
