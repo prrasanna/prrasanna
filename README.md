@@ -3,7 +3,7 @@
 
 ---
 
-## 🧠 About Me
+## About Me
 🚀 Aspiring Full Stack Developer focused on building scalable and high-performance web applications </br>
 💻 Skilled in Backend Development using Node.js and Express.js, with experience in building RESTful APIs and handling server-side logic </br>
 ⚛️ Proficient in Frontend Technologies including React, HTML, CSS, and JavaScript for developing responsive and user-friendly interfaces </br>
@@ -13,7 +13,7 @@
 
 ---
 
-## 🏆 Tech Stack
+## Tech Stack
 
 ![Java](https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=black)
@@ -24,7 +24,7 @@
 
 ---
 
-## 🧰 Tools & IDEs
+## Tools & IDEs
 ![VS Code](https://img.shields.io/badge/VSCode-blue?style=for-the-badge&logo=visualstudiocode)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-red?style=for-the-badge&logo=git)
@@ -32,7 +32,7 @@
 
 ---
 
-## 🏅 Achievements
+## Achievements
 🏆 Awarded Special Prize at TN-Impact2026, recognizing innovation and project excellence </br>
 💻 Successfully developed and delivered multiple Java and Full Stack applications </br>
 🚀 Gained hands-on experience by building real-world, practical applications </br>
@@ -40,11 +40,11 @@
 
 ---
 
-## 📄 Resume
+## Resume
 [![Resume](https://img.shields.io/badge/Resume-Download-blue?style=for-the-badge&logo=readthedocs)](./Bala_Prasanna_M_Resume.pdf)
 
 ---
 
-## 📬 Contact Me
-- 📧 balaprasanth1441996@gmail.com
+## Contact Me
+- 📧 balaprasannamohan@gmail.com
 - 💼 LinkedIn:(www.linkedin.com/in/bala-prasanna-m-4587a728b)
