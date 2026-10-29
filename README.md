@@ -16,16 +16,16 @@
 ## Education
 
 -  **B.Tech – Information Technology**
-  - SSM Institute of Engineering and Technology, Dindigul
-  - 📅 2023 – 2027 | CGPA: 8.5/10
+     SSM Institute of Engineering and Technology, Dindigul
+     📅 2023 – 2027 | CGPA: 8.5/10
 
 -  **Higher Secondary Certificate (HSC)**
-  - MSP Solai Nadar Memorial Higher Secondary School, Dindigul
-  - 📅 2023 | 74%
+     MSP Solai Nadar Memorial Higher Secondary School, Dindigul
+     📅 2023 | 74%
 
 -  **Secondary School Leaving Certificate (SSLC)**
-  - MSP Solai Nadar Memorial Higher Secondary School, Dindigul
-  - 📅 2021 | 90%
+     MSP Solai Nadar Memorial Higher Secondary School, Dindigul
+     📅 2021 | 90%
 
 ---
 
@@ -51,16 +51,16 @@
 ## Internships
 
 - **AI/ML Intern — Edunet Foundation (AICTE × IBM SkillsBuild)**
-  - 📅 February 2026
-  - Completed a six-week internship covering supervised learning, data preprocessing, feature engineering, and model evaluation.
+    📅 February 2026
+    Completed a six-week internship covering supervised learning, data preprocessing, feature engineering, and model evaluation.
 
 - **Frontend Developer Intern — Ekhai Business Services**
-  - 📅 August 2025
-  - Developed responsive web interfaces using HTML, CSS, JavaScript, and Bootstrap, implementing reusable UI sections, interactive components, and 3D glassmorphism effects.
+     📅 August 2025
+    Developed responsive web interfaces using HTML, CSS, JavaScript, and Bootstrap, implementing reusable UI sections, interactive components, and 3D glassmorphism effects.
 
 - **UI/UX Design Intern — OneYes Infotech Solution**
-  - 📅 February 2025
-  - Designed a Spotify-inspired music streaming application in Figma, including Home, Playlist, Player, Library, Search, and Menu screens.
+     📅 February 2025
+     Designed a Spotify-inspired music streaming application in Figma, including Home, Playlist, Player, Library, Search, and Menu screens.
 
 ---
 
