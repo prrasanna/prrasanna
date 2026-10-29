@@ -80,6 +80,7 @@
 ## Contact Me
 
 <p align="left">
+  <br><br>
   <a href="mailto:balaprasannamohan@gmail.com">
     <img src="https://img.icons8.com/color/48/gmail-new.png" width="20" alt="Mail" />
     balaprasanth1441996@gmail.com
