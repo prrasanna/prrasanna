@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Bala Prasanna Mohan</h1>
-<h3 align="center"> Full Stack Web Developer | UI/UX Designer </h3>
+<h3 align="center"> Frontend Dev Engineer | UI/UX Designer </h3>
 
 ---
 
