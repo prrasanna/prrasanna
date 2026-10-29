@@ -1,6 +1,17 @@
 <h1 align="center">Hi 👋, I'm Bala Prasanna Mohan</h1>
 <h3 align="center"> Frontend Dev Engineer | UI/UX Designer </h3>
 
+<p align="center">
+  
+<a href="https://www.linkedin.com/in/bala-prasanna-m-4587a728b/">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="mailto:balaprasannamohan@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+
+</p>
+
 ---
 
 ## About Me
