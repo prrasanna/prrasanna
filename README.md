@@ -96,7 +96,6 @@
     <img src="https://img.icons8.com/ios-glyphs/48/github.png" width="20" alt="GitHub" />
     https://github.com/prrasanna
   </a>
-  <br><br>
 </p>
 
 ---
