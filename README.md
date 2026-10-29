@@ -84,16 +84,19 @@
     <img src="https://img.icons8.com/color/48/gmail-new.png" width="20" alt="Mail" />
     balaprasanth1441996@gmail.com
   </a>
+  <br><br>
   &nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/bala-prasanna-m-4587a728b/">
     <img src="https://img.icons8.com/color/48/linkedin.png" width="20" alt="LinkedIn" />
     www.linkedin.com/in/bala-prasanna-mohan-4587a728b
   </a>
+  <br><br>
   &nbsp;&nbsp;
   <a href="https://github.com/prrasanna">
     <img src="https://img.icons8.com/ios-glyphs/48/github.png" width="20" alt="GitHub" />
-    (https://github.com/prrasanna)
+    https://github.com/prrasanna
   </a>
+  <br><br>
 </p>
 
 ---
