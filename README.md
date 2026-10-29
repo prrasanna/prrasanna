@@ -98,7 +98,7 @@
       </a>
     </td>
     <td>
-      <a href="https://www.linkedin.com/in/bala-prasanna-m-4587a728b/">LinkedIn</a>
+      <a href="https://www.linkedin.com/in/bala-prasanna-m-4587a728b/">/bala-prasanna-mohan-4587a728b</a>
     </td>
   </tr>
   <tr>
@@ -108,7 +108,7 @@
       </a>
     </td>
     <td>
-      <a href="https://github.com/prrasanna">GitHub</a>
+      <a href="https://github.com/prrasanna">/prrasanna</a>
     </td>
   </tr>
 </table>
