@@ -50,16 +50,16 @@
 
 ## Internships
 
-- **AI/ML Intern — Edunet Foundation (AICTE × IBM SkillsBuild)**
-    📅 February 2026
+- **AI/ML Intern — Edunet Foundation (AICTE × IBM SkillsBuild)**  <br><br>
+    📅 February 2026  <br><br>
     Completed a six-week internship covering supervised learning, data preprocessing, feature engineering, and model evaluation.
 
-- **Frontend Developer Intern — Ekhai Business Services**
-     📅 August 2025
+- **Frontend Developer Intern — Ekhai Business Services**  <br><br>
+     📅 August 2025  <br><br>
     Developed responsive web interfaces using HTML, CSS, JavaScript, and Bootstrap, implementing reusable UI sections, interactive components, and 3D glassmorphism effects.
 
-- **UI/UX Design Intern — OneYes Infotech Solution**
-     📅 February 2025
+- **UI/UX Design Intern — OneYes Infotech Solution**  <br><br>
+     📅 February 2025  <br><br>
      Designed a Spotify-inspired music streaming application in Figma, including Home, Playlist, Player, Library, Search, and Menu screens.
 
 ---
