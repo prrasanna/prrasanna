@@ -97,7 +97,7 @@
       </a>
     </td>
     <td>
-      <a href="https://www.linkedin.com/in/bala-prasanna-m-4587a728b/">/bala-prasanna-mohan-4587a728b</a>
+      <a href="https://www.linkedin.com/in/bala-prasanna-m-4587a728b/">www.linkedin.com/in/bala-prasanna-mohan-4587a728b</a>
     </td>
   </tr>
   <tr>
@@ -108,16 +108,6 @@
     </td>
     <td>
       <a href="https://github.com/prrasanna">/prrasanna</a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <a href="https://medium.com/@balaprasanth1441996">
-        <img src="https://img.icons8.com/ios-filled/50/medium-monogram.png" width="24" alt="Medium" />
-      </a>
-    </td>
-    <td>
-      <a href="https://medium.com/@balaprasanth1441996">/@balaprasanth1441996</a>
     </td>
   </tr>
 </table>
