@@ -77,19 +77,22 @@
 
 ---
 
-<h2>📬 Contact Me</h2>
+## Contact Me
 
 <p align="left">
   <a href="mailto:balaprasannamohan@gmail.com">
-    <img src="https://img.icons8.com/color/48/gmail-new.png" width="40" alt="Gmail" />
+    <img src="https://img.icons8.com/color/48/gmail-new.png" width="20" alt="Mail" />
+    Mail
   </a>
-  &nbsp;
-  <a href="https://www.linkedin.com/in/bala-prasanna-m-4587a728b/" target="_blank">
-    <img src="https://img.icons8.com/color/48/linkedin.png" width="40" alt="LinkedIn" />
+  &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/bala-prasanna-m-4587a728b/">
+    <img src="https://img.icons8.com/color/48/linkedin.png" width="20" alt="LinkedIn" />
+    LinkedIn
   </a>
-  &nbsp;
-  <a href="https://github.com/prrasanna" target="_blank">
-    <img src="https://img.icons8.com/ios-glyphs/48/github.png" width="40" alt="GitHub" />
+  &nbsp;&nbsp;
+  <a href="https://github.com/prrasanna">
+    <img src="https://img.icons8.com/ios-glyphs/48/github.png" width="20" alt="GitHub" />
+    GitHub
   </a>
 </p>
 
@@ -97,6 +100,7 @@
 
 ## Certifications
 
-- 🏅 **Front End Web Developer Certification** — Infosys Springboard (2025)
+- 🏅 **Frontend for Java Full Stack Development** — Coursera (2025)
+- 💻 **Front End Web Developer Certification** — Infosys Springboard (2025)
 - ☕ **Java Foundation Certification** — Infosys Springboard (2026)
 
