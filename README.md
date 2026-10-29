@@ -15,15 +15,15 @@
 
 ## Education
 
--  **B.Tech – Information Technology**
+-  **B.Tech – Information Technology** <br><br>
      SSM Institute of Engineering and Technology, Dindigul
      📅 2023 – 2027 | CGPA: 8.5/10
 
--  **Higher Secondary Certificate (HSC)**
+-  **Higher Secondary Certificate (HSC)** <br><br>
      MSP Solai Nadar Memorial Higher Secondary School, Dindigul
      📅 2023 | 74%
 
--  **Secondary School Leaving Certificate (SSLC)**
+-  **Secondary School Leaving Certificate (SSLC)**  <br><br>
      MSP Solai Nadar Memorial Higher Secondary School, Dindigul
      📅 2021 | 90%
 
